@@ -1,16 +1,18 @@
-### Hi there 👋
+<h1 align="center">
+  Sergio Guzmán
+</h1>
 
-<!--
-**DnaCyphers/DnaCyphers** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Hey! 👋
+I'm Sergio, a 22 years old web developer.
 
-Here are some ideas to get you started:
+## Skills
+- 👨‍💻 Python, JavaScript, Java, C#
+- ⚙️ React, Django, Flask
+- 👁️ HTML, CSS
+- 💽 MySQL, SQL, PostgreSQL
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Contact
+- [@Sergio Guzman](https://www.linkedin.com/in/sergio-guzm%C3%A1n-1b190a1a1/) on LinkedIn
+- [@SergioGuzmancc](https://twitter.com/SergioGuzmancc) on Twitter
+- [@sergio_guzmannc](https://www.instagram.com/sergio_guzmannc) on Instagram
+- Dna Cypher#4654 on Discord
