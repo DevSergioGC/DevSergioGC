@@ -6,8 +6,8 @@
 I'm Sergio, a 22 years old web developer.
 
 ## Skills
-- 👨‍💻 Python, JavaScript, Java, C#
-- ⚙️ React, Django, Flask
+- 👨‍💻 Python, JavaScript, C#
+- ⚙️ React, Django, Flask, Nest Js, Frappe 
 - 👁️ HTML, CSS
 - 💽 MySQL, SQL, PostgreSQL
 
