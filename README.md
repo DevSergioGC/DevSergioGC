@@ -3,16 +3,16 @@
 </h1>
 
 ## Hey! 👋
-I'm Sergio, a 22 years old web developer.
+I'm Sergio, a 23 years old web developer.
 
 ## Skills
 - 👨‍💻 Python, JavaScript, C#
-- ⚙️ React, Django, Flask, Nest Js, Frappe 
+- ⚙️ React, Django, Flask, NestJs, Frappe, NextJS 
 - 👁️ HTML, CSS
 - 💽 MySQL, SQL, PostgreSQL
 
 ## Contact
-- [@Sergio Guzman](https://www.linkedin.com/in/sergio-guzm%C3%A1n-1b190a1a1/) on LinkedIn
+- [@Sergio Guzman](https://www.linkedin.com/in/DevSergioGC) on LinkedIn
 - [@SergioGuzmancc](https://twitter.com/SergioGuzmancc) on Twitter
 - [@sergio_guzmannc](https://www.instagram.com/sergio_guzmannc) on Instagram
-- Dna Cypher#4654 on Discord
+- Head Honcho#4654 on Discord
